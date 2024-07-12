@@ -18,7 +18,7 @@ allDoTemp <- rbind(man_Do_Temp, chelsea_Do_Temp, hood_Do_Temp, thorn_Do_Temp) %>
 allDoTemp <- allDoTemp %>%
   mutate(Date.Time..GMT.07.00 = mdy_hm(Date.Time..GMT.07.00, tz = "Etc/GMT+7"))
 
-##R can't handle our date and time formate, use lubridate to fix this
+##R can't handle our date and time format, use lubridate to fix this
 str(allDoTemp)
 
 allDoTemp$datetime <- mdy_hm(allDoTemp$datetime)
@@ -28,15 +28,29 @@ allDoTemp$datetime<-mdy_hm(allDoTemp$datetime)
 tail(allDoTemp)
 
 ##Too much data, par it down to after 4/30/24
-<<<<<<< Updated upstream
+
 # Filter out rows where Date.Time..GMT.07.00 is less than or equal to "2024-04-30 12:00:00"
 filtered_data <- allDoTemp %>%
   filter(Date.Time..GMT.07.00 >= ymd_hms("2024-04-30 12:00:00", tz = "Etc/GMT+7"))
-=======
+
 allDoTemp %>% 
   filter(date >= "2024-04-30 12:00:00")
+# Converting to POSIXct datetime
+filtered_data$Date.Time..GMT.07.00 <- as.POSIXct(filtered_data$Date.Time..GMT.07.00, format = "%Y-%m-%d %H:%M:%S")
+filtered_data <- filtered_data[order(filtered_data$Date.Time..GMT.07.00), ]
 
+## make plot of Temp and DO
+ggplot(data = filtered_data, aes(x = Date.Time..GMT.07.00, y = Temp_C, color = Site)) +
+  geom_line(na.rm = TRUE) +
+  labs(title = "Site Temperature Over Time", x = " ", y = "Temperature, Celcius", color = "Site")
+  
+DO_overtime <- ggplot(data = filtered_data, aes(x = Date.Time..GMT.07.00, y = Temp_C, color = Site)) +
+  geom_line(na.rm = TRUE) +
+  labs(title = "Site Temperature Over Time", x = " ", y = "Temperature, Celcius", color = "Site")
+)
+
+##average values by day 
 
 
   
->>>>>>> Stashed changes
+
