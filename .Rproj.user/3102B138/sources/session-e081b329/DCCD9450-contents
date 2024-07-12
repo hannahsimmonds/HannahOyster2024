@@ -1,0 +1,20 @@
+man_Do_temp <- read_csv("man_Do_Temp.csv")
+chelsea_Do_Temp <- read_csv("chelsea_Do_Temp.csv")
+thorn_Do_Temp <- read_csv("thorn_Do_Temp.csv")
+hood_Do_Temp <- read_csv("hood_Do_Temp.csv")
+
+library(tidyverse)
+##merge all data into one file
+allDoTemp <- rbind(man_Do_Temp, chelsea_Do_Temp, hood_Do_Temp, thorn_Do_Temp)
+##R can't handle our date and time formate, use lubridate to fix this
+str(allDoTemp)
+allDoTemp$datetime<-mdy_hm(allDoTemp$datetime)
+
+##Too much data, par it down to after 4/30/24
+allDoTemp %>% 
+  filter(date >= "2024-04-30 12:00:00")
+
+
+ggplot(data = allDoTemp, aes(x=datetime, y=DO_mgL, color=Site))+
+  geom_line()
+  

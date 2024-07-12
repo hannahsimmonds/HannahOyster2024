@@ -1,0 +1,73 @@
+Site,Month,Date_sample_collected,Time_Sample_collected,Field_temperature,Salinity,Field_pH,Bottle_Number,Bottle_Replicate,Date_spec_pH_run,Date_Titrator_run,Lab_spec_pH,Lab_Alk_sample_name,Lab_alkalinity,Spec_run_by,Titration_run_by,Notes,Monthly_Variation
+Chelsea,August,1-Aug-23,9.45,17.6,29.04,8.043,1,a,16-Aug-23,14-Aug-23,8.005072997,CHEL_20230801_1A,2067.673921,Katherine Jackson,Katherine Jackson,,N
+Chelsea,August,1-Aug-23,9.45,17.6,29.04,8.043,1,b,16-Aug-23,14-Aug-23,8.011368026,CHEL_20230801_1B,2061.247943,Katherine Jackson,Katherine Jackson,,N
+Chelsea,August,1-Aug-23,11.45,19.5,29.11,8.286,2,a,18-Aug-23,14-Aug-23,8.274438348,CHEL_20230801_2A,2069.231247,Katherine Jackson,Katherine Jackson,,Y
+Chelsea,August,1-Aug-23,11.45,19.5,29.11,8.286,2,b,18-Aug-23,14-Aug-23,8.258274318,CHEL_20230801_2B,2065.062382,Katherine Jackson,Katherine Jackson,,Y
+Chelsea,August,1-Aug-23,13,20.8,28.79,,3,a,18-Aug-23,15-Aug-23,,CHEL_20230801_3A,2048.191863,Katherine Jackson,Katherine Jackson,,N
+Chelsea,August,1-Aug-23,13,20.8,28.79,,3,b,18-Aug-23,15-Aug-23,,CHEL_20230801_3B,2054.144248,Katherine Jackson,Katherine Jackson,,N
+Hood Head,August,7-Aug-23,10.32,16.47,29.6,7.896,1,a,16-Aug-23,14-Aug-23,7.841058976,HOOD_20230807_1A,2097.150468,Katherine Jackson,Katherine Jackson,,Y
+Hood Head,August,7-Aug-23,10.32,16.47,29.6,7.896,1,b,16-Aug-23,14-Aug-23,7.841291074,HOOD_20230807_1B,2099.935988,Katherine Jackson,Katherine Jackson,,Y
+Hood Head,August,7-Aug-23,10.32,16.47,29.6,7.896,2,a,18-Aug-23,15-Aug-23,7.833105138,HOOD_20230807_2A,2115.242459,Katherine Jackson,Katherine Jackson,,Y
+Hood Head,August,7-Aug-23,10.32,16.47,29.6,7.896,2,b,18-Aug-23,15-Aug-23,7.836043561,HOOD_20230807_2B,2104.599644,Katherine Jackson,Katherine Jackson,,Y
+Manchester,August,8-Aug-23,10,14.8,29.42,7.691,1,a,16-Aug-23,14-Aug-23,7.742381556,MANC_20230808_1A,2105.076515,Katherine Jackson,Katherine Jackson,,Y
+Manchester,August,8-Aug-23,10,14.8,29.42,7.691,1,b,16-Aug-23,14-Aug-23,7.742381556,MANC_20230808_1B,2100.588631,Katherine Jackson,Katherine Jackson,,Y
+Manchester,August,8-Aug-23,10,14.8,29.42,7.691,2,a,18-Aug-23,15-Aug-23,7.762565717,MANC_20230808_2A,2115.171868,Katherine Jackson,Katherine Jackson,,Y
+Manchester,August,8-Aug-23,10,14.8,29.42,7.691,2,b,18-Aug-23,15-Aug-23,7.756073858,MANC_20230808_2B,2108.08761,Katherine Jackson,Katherine Jackson,,Y
+Thorndyke,August,2-Aug-23,9.4,14.9,29.34,7.62,1,a,16-Aug-23,14-Aug-23,7.68049675,TB_20230802_1A,2016.710008,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,August,2-Aug-23,9.4,14.9,29.34,7.62,1,b,16-Aug-23,14-Aug-23,7.692452166,TB_20230802_1B,2016.472072,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,August,2-Aug-23,11,20.5,20.33,8.062,2,a,16-Aug-23,14-Aug-23,7.993991903,TB_20230802_2A,1804.646788,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,August,2-Aug-23,11,20.5,20.33,8.062,2,b,16-Aug-23,14-Aug-23,7.972949864,TB_20230802_2B,1804.443226,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,August,2-Aug-23,12.18,21.6,21.24,8.47,3,a,18-Aug-23,14-Aug-23,8.310133547,TB_20230802_3A,1822.361462,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,August,2-Aug-23,12.18,21.6,21.24,8.47,3,b,18-Aug-23,14-Aug-23,8.303039693,TB_20230802_3B,1824.315824,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,August,2-Aug-23,13.3,24.7,18.09,8.44,4,a,18-Aug-23,15-Aug-23,8.390142927,TB_20230802_4A,1733.512822,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,August,2-Aug-23,13.3,24.7,18.09,8.44,4,b,18-Aug-23,15-Aug-23,8.405472861,TB_20230802_4B,1740.82401,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,August,2-Aug-23,14,26.7,17.35,8.45,5,a,18-Aug-23,15-Aug-23,8.404583991,TB_20230802_5A,1617.909636,Katherine Jackson,Katherine Jackson,,Y
+Thorndyke,August,2-Aug-23,14,26.7,17.35,8.45,5,b,18-Aug-23,15-Aug-23,8.387498245,TB_20230802_5B,1619.996895,Katherine Jackson,Katherine Jackson,,Y
+Thorndyke,August,2-Aug-23,14,26.7,17.35,8.45,6,a,18-Aug-23,15-Aug-23,8.366231545,TB_20230802_6A,1617.86457,Katherine Jackson,Katherine Jackson,,Y
+Thorndyke,August,2-Aug-23,14,26.7,17.35,8.45,6,b,18-Aug-23,15-Aug-23,8.401008511,TB_20230802_6B,1620.083864,Katherine Jackson,Katherine Jackson,,Y
+Chelsea,July,6-Jul-23,12.14,19.4,28.28,8.159,1,a,20-Jul-23,20-Jul-23,8.186866139,CHEL_20230706_1A,2023.605465,Katherine Jackson,Katherine Jackson,,N
+Chelsea,July,6-Jul-23,12.14,19.4,28.28,8.159,1,b,20-Jul-23,20-Jul-23,8.179620588,CHEL_20230706_1B,2024.670913,Katherine Jackson,Katherine Jackson,,N
+Chelsea,July,6-Jul-23,14.25,18,28.65,8.327,2,a,21-Jul-23,20-Jul-23,8.301642819,CHEL_20230706_2A,2049.930696,Katherine Jackson,Katherine Jackson,,N
+Chelsea,July,6-Jul-23,14.25,18,28.65,8.327,2,b,21-Jul-23,20-Jul-23,8.299451644,CHEL_20230706_2B,2047.437566,Katherine Jackson,Katherine Jackson,,N
+Chelsea,July,6-Jul-23,15.25,18.9,28.06,8.511,3,a,24-Jul-23,21-Jul-23,8.408073391,CHEL_20230706_3A,2047.01997,Katherine Jackson,Katherine Jackson,,N
+Chelsea,July,6-Jul-23,15.25,18.9,28.06,8.511,3,b,24-Jul-23,21-Jul-23,8.406530796,CHEL_20230706_3B,2036.947727,Katherine Jackson,Katherine Jackson,,N
+Chelsea,July,6-Jul-23,16.55,19.1,28.82,,4,a,24-Jul-23,21-Jul-23,8.24618701,CHEL_20230721_4A,2048.567191,Katherine Jackson,Katherine Jackson,,Y
+Chelsea,July,6-Jul-23,16.55,19.1,28.82,,4,b,24-Jul-23,21-Jul-23,8.246963355,CHEL_20230721_4B,2049.949429,Katherine Jackson,Katherine Jackson,,Y
+Hood Head,July,17-Jul-23,13.45,17.5,29.47,8.126,1,a,20-Jul-23,20-Jul-23,8.080611683,HOOD_20230717_1A,2080.42933,Katherine Jackson,Katherine Jackson,Nearby location sampled because of site access problems. Shinelands state park,Y
+Hood Head,July,17-Jul-23,13.45,17.5,29.47,8.126,1,b,20-Jul-23,20-Jul-23,8.098648917,HOOD_20230717_1B,2092.012454,Katherine Jackson,Katherine Jackson,Nearby location sampled because of site access problems. Shinelands state park,Y
+Hood Head,July,17-Jul-23,13.45,17.5,29.47,8.126,2,a,21-Jul-23,20-Jul-23,8.084370161,HOOD_20230717_2A,2073.286232,Katherine Jackson,Katherine Jackson,Nearby location sampled because of site access problems. Shinelands state park,Y
+Hood Head,July,17-Jul-23,13.45,17.5,29.47,8.126,2,b,21-Jul-23,20-Jul-23,8.094687476,HOOD_20230717_2B,2074.334588,Katherine Jackson,Katherine Jackson,,Y
+Manchester,July,7-Jul-23,10.3,12.9,29.45,7.7,1,a,21-Jul-23,21-Jul-23,7.790931058,MANC_20230707_1A,2075.863455,Katherine Jackson,Katherine Jackson,,Y
+Manchester,July,7-Jul-23,10.3,12.9,29.45,7.7,1,b,24-Jul-23,21-Jul-23,7.724074631,MANC_20230707_1B,2073.066459,Katherine Jackson,Katherine Jackson,,Y
+Thorndyke,July,5-Jul-23,12.05,21.9,20.9,8.344,1,a,12-Jul-23,20-Jul-23,8.359073016,TB_20230705_1A,1693.867344,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,July,5-Jul-23,12.05,21.9,20.9,8.344,1,b,12-Jul-23,20-Jul-23,8.368921654,TB_20230705_1B,1694.431815,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,July,5-Jul-23,13.19,24.9,19.3,8.613,2,a,12-Jul-23,20-Jul-23,8.571381912,TB_20230705_2A,1568.0066,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,July,5-Jul-23,13.19,24.9,19.3,8.613,2,b,12-Jul-23,20-Jul-23,8.546752486,TB_20230705_2B,1564.393181,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,July,5-Jul-23,14.25,25.1,16.17,8.691,3,a,12-Jul-23,21-Jul-23,8.642208779,TB_20230705_3A,1679.89989,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,July,5-Jul-23,14.25,25.1,16.17,8.691,3,b,12-Jul-23,21-Jul-23,8.597881255,TB_20230705_3B,1683.838104,Katherine Jackson,Katherine Jackson,,N
+Thorndyke,July,5-Jul-23,14.57,26.2,19.44,,4,a,24-Jul-23,21-Jul-23,8.64087852,TB_20230705_4A,1645.97437,Katherine Jackson,Katherine Jackson,,Y
+Thorndyke,July,5-Jul-23,14.57,26.2,19.44,,4,b,24-Jul-23,21-Jul-23,8.642091924,TB_20230705_4B,1647.165869,Katherine Jackson,Katherine Jackson,,Y
+Thorndyke,July,5-Jul-23,14.57,26.2,19.44,,5,a,24-Jul-23,21-Jul-23,8.670918471,TB_20230705_5A,1653.81659,Katherine Jackson,Katherine Jackson,,Y
+Thorndyke,July,5-Jul-23,14.57,26.2,19.44,,5,b,24-Jul-23,21-Jul-23,8.664957844,TB_20230705_5B,1649.263324,Katherine Jackson,Katherine Jackson,,Y
+Chelsea,June,6-Jun-23,12.3,17.3,27.99,,1,a,27-Jun-23,26-Jun-23,8.096104311,CHEL_20230606_1A,2017.882074,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,N
+Chelsea,June,6-Jun-23,12.3,17.3,27.99,,1,b,27-Jun-23,26-Jun-23,8.055153868,CHEL_20230606_1B,2012.723353,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,N
+Chelsea,June,6-Jun-23,14.4,20.1,27.95,,2,a,27-Jun-23,26-Jun-23,8.207296889,CHEL_20230606_2A,2007.620457,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,N
+Chelsea,June,6-Jun-23,14.4,20.1,27.95,,2,b,27-Jun-23,26-Jun-23,8.13267203,CHEL_20230606_2B,2004.230986,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,N
+Chelsea,June,6-Jun-23,15.1,21.2,27.38,,3,a,27-Jun-23,26-Jun-23,8.164150992,CHEL_20230606_3A,2002.670214,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,N
+Chelsea,June,6-Jun-23,15.1,21.2,27.38,,3,b,27-Jun-23,26-Jun-23,8.164150992,CHEL_20230606_3B,1998.617953,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,N
+Chelsea,June,6-Jun-23,15.26,19.7,28.52,,4,a,27-Jun-23,26-Jun-23,8.10937209,CHEL_20230606_4A,2000.898473,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
+Chelsea,June,6-Jun-23,15.26,19.7,28.52,,4,b,27-Jun-23,26-Jun-23,8.138380076,CHEL_20230606_4B,2004.972892,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
+Hood Head,June,16-Jun-23,10,15.8,26.89,,1,a,26-Jun-23,23-Jun-23,8.192259444,HOOD_06162023_1A,1978.408709,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
+Hood Head,June,16-Jun-23,10,15.8,26.89,,1,b,26-Jun-23,23-Jun-23,8.220933025,HOOD_06162023_1B,1980.50353,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
+Hood Head,June,16-Jun-23,10,15.8,26.89,,2,a,26-Jun-23,23-Jun-23,8.221135666,HOOD_06162023_2A,1986.873751,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
+Hood Head,June,16-Jun-23,10,15.8,26.89,,2,b,26-Jun-23,23-Jun-23,8.238937717,HOOD_06162023_2B,2004.687846,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
+Manchester,June,12-Jun-23,12.25,13.6,28.55,7.8,1,a,23-Jun-23,23-Jun-23,7.95207479,MANC_06122023_1A,2055.54854,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
+Manchester,June,12-Jun-23,12.25,13.6,28.55,7.8,1,b,23-Jun-23,23-Jun-23,7.954415783,MANC_06122023_1B,2050.987364,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
+Manchester,June,12-Jun-23,12.25,13.6,28.55,7.8,2,a,23-Jun-23,23-Jun-23,7.900105505,MANC_06122023_2A,2052.974539,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
+Manchester,June,12-Jun-23,12.25,13.6,28.55,7.8,2,b,23-Jun-23,23-Jun-23,7.88456866,MANC_06122023_2B,2048.722169,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
+Thorndyke,June,5-Jun-23,12.16,18.7,21.61,8.67,1,a,23-Jun-23,23-Jun-23,8.508719256,TB_06052023_1A,1776.179697,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,N
+Thorndyke,June,5-Jun-23,12.16,18.7,21.61,8.67,1,b,26-Jun-23,23-Jun-23,8.480800456,TB_06052023_1B,1770.356071,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,N
+Thorndyke,June,5-Jun-23,13.35,18.7,21.61,,2,a,26-Jun-23,23-Jun-23,8.964196863,TB_06052023_2A,1542.645412,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,N
+Thorndyke,June,5-Jun-23,13.35,18.7,21.61,,2,b,27-Jun-23,23-Jun-23,Incorrectly run,TB_06052023_2B,1550.895549,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,N
+Thorndyke,June,6-Jun-23,15.4,24.5,25.46,,3,a,27-Jun-23,26-Jun-23,8.717454143,TB_20230605_3A,1556.344697,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
+Thorndyke,June,6-Jun-23,15.4,24.5,25.46,,3,b,27-Jun-23,26-Jun-23,8.778075811,TB_20230605_3B,1558.142732,"Nick Chang, Katie Jackson","Nick Chang, Katie Jackson",,Y
