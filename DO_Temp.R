@@ -28,6 +28,15 @@ allDoTemp$datetime<-mdy_hm(allDoTemp$datetime)
 tail(allDoTemp)
 
 ##Too much data, par it down to after 4/30/24
+<<<<<<< Updated upstream
 # Filter out rows where Date.Time..GMT.07.00 is less than or equal to "2024-04-30 12:00:00"
 filtered_data <- allDoTemp %>%
   filter(Date.Time..GMT.07.00 >= ymd_hms("2024-04-30 12:00:00", tz = "Etc/GMT+7"))
+=======
+allDoTemp %>% 
+  filter(date >= "2024-04-30 12:00:00")
+
+
+
+  
+>>>>>>> Stashed changes
