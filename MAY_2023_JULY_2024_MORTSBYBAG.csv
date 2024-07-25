@@ -1,0 +1,865 @@
+Site,Bag_Col,Month,Bag_no,Mort_count,Month_no,Year,Month_year
+Chelsea,Green,May,59,0,5,2023,May_2023
+Chelsea,Green,May,70,0,5,2023,May_2023
+Chelsea,Green,May,85,0,5,2023,May_2023
+Chelsea,Green,May,86,0,5,2023,May_2023
+Chelsea,Green,May,91,0,5,2023,May_2023
+Chelsea,Green,May,72,0,5,2023,May_2023
+Chelsea,Green,May,71,0,5,2023,May_2023
+Chelsea,Green,May,12,0,5,2023,May_2023
+Chelsea,Blue,May,27,0,5,2023,May_2023
+Chelsea,Blue,May,29,0,5,2023,May_2023
+Chelsea,Blue,May,37,0,5,2023,May_2023
+Chelsea,Blue,May,46,0,5,2023,May_2023
+Chelsea,Blue,May,48,0,5,2023,May_2023
+Chelsea,Blue,May,49,0,5,2023,May_2023
+Chelsea,Blue,May,65,0,5,2023,May_2023
+Chelsea,Blue,May,74,0,5,2023,May_2023
+Chelsea,Red,May,17,0,5,2023,May_2023
+Chelsea,Red,May,22,0,5,2023,May_2023
+Chelsea,Red,May,35,0,5,2023,May_2023
+Chelsea,Red,May,39,0,5,2023,May_2023
+Chelsea,Red,May,26,0,5,2023,May_2023
+Chelsea,Red,May,30,0,5,2023,May_2023
+Chelsea,Red,May,48,0,5,2023,May_2023
+Chelsea,Red,May,50,0,5,2023,May_2023
+Manchester,Green,May,58,1,5,2023,May_2023
+Manchester,Green,May,60,0,5,2023,May_2023
+Manchester,Green,May,79,0,5,2023,May_2023
+Manchester,Green,May,84,0,5,2023,May_2023
+Manchester,Green,May,89,0,5,2023,May_2023
+Manchester,Green,May,80,0,5,2023,May_2023
+Manchester,Green,May,100,0,5,2023,May_2023
+Manchester,Green,May,11,0,5,2023,May_2023
+Manchester,Blue,May,28,0,5,2023,May_2023
+Manchester,Blue,May,54,0,5,2023,May_2023
+Manchester,Blue,May,68,0,5,2023,May_2023
+Manchester,Blue,May,88,0,5,2023,May_2023
+Manchester,Blue,May,58,0,5,2023,May_2023
+Manchester,Blue,May,75,0,5,2023,May_2023
+Manchester,Blue,May,63,0,5,2023,May_2023
+Manchester,Blue,May,47,0,5,2023,May_2023
+Manchester,Red,May,3,0,5,2023,May_2023
+Manchester,Red,May,29,0,5,2023,May_2023
+Manchester,Red,May,34,0,5,2023,May_2023
+Manchester,Red,May,40,1,5,2023,May_2023
+Manchester,Red,May,8,0,5,2023,May_2023
+Manchester,Red,May,46,0,5,2023,May_2023
+Manchester,Red,May,10,0,5,2023,May_2023
+Manchester,Red,May,11,0,5,2023,May_2023
+Hood Head,Green,May,73,0,5,2023,May_2023
+Hood Head,Green,May,88,0,5,2023,May_2023
+Hood Head,Green,May,14,0,5,2023,May_2023
+Hood Head,Green,May,93,0,5,2023,May_2023
+Hood Head,Green,May,77,0,5,2023,May_2023
+Hood Head,Green,May,75,0,5,2023,May_2023
+Hood Head,Green,May,98,0,5,2023,May_2023
+Hood Head,Green,May,13,0,5,2023,May_2023
+Hood Head,Blue,May,31,0,5,2023,May_2023
+Hood Head,Blue,May,34,0,5,2023,May_2023
+Hood Head,Blue,May,44,0,5,2023,May_2023
+Hood Head,Blue,May,70,0,5,2023,May_2023
+Hood Head,Blue,May,54,0,5,2023,May_2023
+Hood Head,Blue,May,43,0,5,2023,May_2023
+Hood Head,Blue,May,61,0,5,2023,May_2023
+Hood Head,Blue,May,73,0,5,2023,May_2023
+Hood Head,Red,May,23,0,5,2023,May_2023
+Hood Head,Red,May,28,0,5,2023,May_2023
+Hood Head,Red,May,33,0,5,2023,May_2023
+Hood Head,Red,May,36,0,5,2023,May_2023
+Hood Head,Red,May,2,0,5,2023,May_2023
+Hood Head,Red,May,20,0,5,2023,May_2023
+Hood Head,Red,May,24,0,5,2023,May_2023
+Hood Head,Red,May,27,0,5,2023,May_2023
+Thorndyke Bay,Green,May,69,0,5,2023,May_2023
+Thorndyke Bay,Green,May,74,0,5,2023,May_2023
+Thorndyke Bay,Green,May,83,0,5,2023,May_2023
+Thorndyke Bay,Green,May,97,1,5,2023,May_2023
+Thorndyke Bay,Green,May,67,0,5,2023,May_2023
+Thorndyke Bay,Green,May,99,0,5,2023,May_2023
+Thorndyke Bay,Green,May,81,0,5,2023,May_2023
+Thorndyke Bay,Green,May,57,1,5,2023,May_2023
+Thorndyke Bay,Blue,May,36,0,5,2023,May_2023
+Thorndyke Bay,Blue,May,41,0,5,2023,May_2023
+Thorndyke Bay,Blue,May,59,0,5,2023,May_2023
+Thorndyke Bay,Blue,May,72,0,5,2023,May_2023
+Thorndyke Bay,Blue,May,35,0,5,2023,May_2023
+Thorndyke Bay,Blue,May,52,0,5,2023,May_2023
+Thorndyke Bay,Blue,May,64,0,5,2023,May_2023
+Thorndyke Bay,Blue,May,67,0,5,2023,May_2023
+Thorndyke Bay,Red,May,16,0,5,2023,May_2023
+Thorndyke Bay,Red,May,18,0,5,2023,May_2023
+Thorndyke Bay,Red,May,19,0,5,2023,May_2023
+Thorndyke Bay,Red,May,49,0,5,2023,May_2023
+Thorndyke Bay,Red,May,15,0,5,2023,May_2023
+Thorndyke Bay,Red,May,9,0,5,2023,May_2023
+Thorndyke Bay,Red,May,45,0,5,2023,May_2023
+Thorndyke Bay,Red,May,37,0,5,2023,May_2023
+Chelsea,Green,June,59,0,6,2023,June_2023
+Chelsea,Green,June,70,0,6,2023,June_2023
+Chelsea,Green,June,85,1,6,2023,June_2023
+Chelsea,Green,June,86,0,6,2023,June_2023
+Chelsea,Green,June,91,0,6,2023,June_2023
+Chelsea,Green,June,72,0,6,2023,June_2023
+Chelsea,Green,June,71,2,6,2023,June_2023
+Chelsea,Green,June,12,0,6,2023,June_2023
+Chelsea,Blue,June,27,0,6,2023,June_2023
+Chelsea,Blue,June,29,0,6,2023,June_2023
+Chelsea,Blue,June,37,0,6,2023,June_2023
+Chelsea,Blue,June,46,0,6,2023,June_2023
+Chelsea,Blue,June,48,0,6,2023,June_2023
+Chelsea,Blue,June,49,1,6,2023,June_2023
+Chelsea,Blue,June,65,0,6,2023,June_2023
+Chelsea,Blue,June,74,0,6,2023,June_2023
+Chelsea,Red,June,17,0,6,2023,June_2023
+Chelsea,Red,June,22,0,6,2023,June_2023
+Chelsea,Red,June,35,0,6,2023,June_2023
+Chelsea,Red,June,39,1,6,2023,June_2023
+Chelsea,Red,June,26,0,6,2023,June_2023
+Chelsea,Red,June,30,0,6,2023,June_2023
+Chelsea,Red,June,48,0,6,2023,June_2023
+Chelsea,Red,June,50,0,6,2023,June_2023
+Manchester,Green,June,58,0,6,2023,June_2023
+Manchester,Green,June,60,0,6,2023,June_2023
+Manchester,Green,June,79,0,6,2023,June_2023
+Manchester,Green,June,84,0,6,2023,June_2023
+Manchester,Green,June,89,0,6,2023,June_2023
+Manchester,Green,June,80,0,6,2023,June_2023
+Manchester,Green,June,100,0,6,2023,June_2023
+Manchester,Green,June,11,0,6,2023,June_2023
+Manchester,Blue,June,28,0,6,2023,June_2023
+Manchester,Blue,June,54,0,6,2023,June_2023
+Manchester,Blue,June,68,0,6,2023,June_2023
+Manchester,Blue,June,88,0,6,2023,June_2023
+Manchester,Blue,June,58,0,6,2023,June_2023
+Manchester,Blue,June,75,0,6,2023,June_2023
+Manchester,Blue,June,63,0,6,2023,June_2023
+Manchester,Blue,June,47,0,6,2023,June_2023
+Manchester,Red,June,3,0,6,2023,June_2023
+Manchester,Red,June,29,0,6,2023,June_2023
+Manchester,Red,June,34,0,6,2023,June_2023
+Manchester,Red,June,40,0,6,2023,June_2023
+Manchester,Red,June,8,0,6,2023,June_2023
+Manchester,Red,June,46,0,6,2023,June_2023
+Manchester,Red,June,10,0,6,2023,June_2023
+Manchester,Red,June,11,0,6,2023,June_2023
+Hood Head,Green,June,73,0,6,2023,June_2023
+Hood Head,Green,June,88,0,6,2023,June_2023
+Hood Head,Green,June,14,0,6,2023,June_2023
+Hood Head,Green,June,93,0,6,2023,June_2023
+Hood Head,Green,June,77,0,6,2023,June_2023
+Hood Head,Green,June,75,0,6,2023,June_2023
+Hood Head,Green,June,98,0,6,2023,June_2023
+Hood Head,Green,June,13,0,6,2023,June_2023
+Hood Head,Blue,June,31,0,6,2023,June_2023
+Hood Head,Blue,June,34,0,6,2023,June_2023
+Hood Head,Blue,June,44,0,6,2023,June_2023
+Hood Head,Blue,June,70,0,6,2023,June_2023
+Hood Head,Blue,June,54,0,6,2023,June_2023
+Hood Head,Blue,June,43,0,6,2023,June_2023
+Hood Head,Blue,June,61,0,6,2023,June_2023
+Hood Head,Blue,June,73,0,6,2023,June_2023
+Hood Head,Red,June,23,0,6,2023,June_2023
+Hood Head,Red,June,28,0,6,2023,June_2023
+Hood Head,Red,June,33,0,6,2023,June_2023
+Hood Head,Red,June,36,0,6,2023,June_2023
+Hood Head,Red,June,2,0,6,2023,June_2023
+Hood Head,Red,June,20,0,6,2023,June_2023
+Hood Head,Red,June,24,0,6,2023,June_2023
+Hood Head,Red,June,27,0,6,2023,June_2023
+Thorndyke Bay,Green,June,69,0,6,2023,June_2023
+Thorndyke Bay,Green,June,74,0,6,2023,June_2023
+Thorndyke Bay,Green,June,83,0,6,2023,June_2023
+Thorndyke Bay,Green,June,97,0,6,2023,June_2023
+Thorndyke Bay,Green,June,67,0,6,2023,June_2023
+Thorndyke Bay,Green,June,99,0,6,2023,June_2023
+Thorndyke Bay,Green,June,81,0,6,2023,June_2023
+Thorndyke Bay,Green,June,57,0,6,2023,June_2023
+Thorndyke Bay,Blue,June,36,1,6,2023,June_2023
+Thorndyke Bay,Blue,June,41,0,6,2023,June_2023
+Thorndyke Bay,Blue,June,59,0,6,2023,June_2023
+Thorndyke Bay,Blue,June,72,0,6,2023,June_2023
+Thorndyke Bay,Blue,June,35,0,6,2023,June_2023
+Thorndyke Bay,Blue,June,52,1,6,2023,June_2023
+Thorndyke Bay,Blue,June,64,0,6,2023,June_2023
+Thorndyke Bay,Blue,June,67,0,6,2023,June_2023
+Thorndyke Bay,Red,June,16,1,6,2023,June_2023
+Thorndyke Bay,Red,June,18,0,6,2023,June_2023
+Thorndyke Bay,Red,June,19,0,6,2023,June_2023
+Thorndyke Bay,Red,June,49,0,6,2023,June_2023
+Thorndyke Bay,Red,June,15,0,6,2023,June_2023
+Thorndyke Bay,Red,June,9,0,6,2023,June_2023
+Thorndyke Bay,Red,June,45,0,6,2023,June_2023
+Thorndyke Bay,Red,June,37,1,6,2023,June_2023
+Chelsea,Green,July,59,0,7,2023,July_2023
+Chelsea,Green,July,70,3,7,2023,July_2023
+Chelsea,Green,July,85,0,7,2023,July_2023
+Chelsea,Green,July,86,1,7,2023,July_2023
+Chelsea,Green,July,91,2,7,2023,July_2023
+Chelsea,Green,July,72,0,7,2023,July_2023
+Chelsea,Green,July,71,3,7,2023,July_2023
+Chelsea,Green,July,12,2,7,2023,July_2023
+Chelsea,Blue,July,27,0,7,2023,July_2023
+Chelsea,Blue,July,29,2,7,2023,July_2023
+Chelsea,Blue,July,37,0,7,2023,July_2023
+Chelsea,Blue,July,46,0,7,2023,July_2023
+Chelsea,Blue,July,48,0,7,2023,July_2023
+Chelsea,Blue,July,49,1,7,2023,July_2023
+Chelsea,Blue,July,65,0,7,2023,July_2023
+Chelsea,Blue,July,74,0,7,2023,July_2023
+Chelsea,Red,July,17,0,7,2023,July_2023
+Chelsea,Red,July,22,1,7,2023,July_2023
+Chelsea,Red,July,35,0,7,2023,July_2023
+Chelsea,Red,July,39,4,7,2023,July_2023
+Chelsea,Red,July,26,2,7,2023,July_2023
+Chelsea,Red,July,30,0,7,2023,July_2023
+Chelsea,Red,July,48,0,7,2023,July_2023
+Chelsea,Red,July,50,0,7,2023,July_2023
+Manchester,Green,July,58,0,7,2023,July_2023
+Manchester,Green,July,60,0,7,2023,July_2023
+Manchester,Green,July,79,0,7,2023,July_2023
+Manchester,Green,July,84,0,7,2023,July_2023
+Manchester,Green,July,89,0,7,2023,July_2023
+Manchester,Green,July,80,0,7,2023,July_2023
+Manchester,Green,July,100,0,7,2023,July_2023
+Manchester,Green,July,11,0,7,2023,July_2023
+Manchester,Blue,July,28,0,7,2023,July_2023
+Manchester,Blue,July,54,0,7,2023,July_2023
+Manchester,Blue,July,68,0,7,2023,July_2023
+Manchester,Blue,July,88,0,7,2023,July_2023
+Manchester,Blue,July,58,0,7,2023,July_2023
+Manchester,Blue,July,75,0,7,2023,July_2023
+Manchester,Blue,July,63,0,7,2023,July_2023
+Manchester,Blue,July,47,0,7,2023,July_2023
+Manchester,Red,July,3,0,7,2023,July_2023
+Manchester,Red,July,29,0,7,2023,July_2023
+Manchester,Red,July,34,0,7,2023,July_2023
+Manchester,Red,July,40,0,7,2023,July_2023
+Manchester,Red,July,8,0,7,2023,July_2023
+Manchester,Red,July,46,0,7,2023,July_2023
+Manchester,Red,July,10,0,7,2023,July_2023
+Manchester,Red,July,11,1,7,2023,July_2023
+Hood Head,Green,July,73,0,7,2023,July_2023
+Hood Head,Green,July,88,0,7,2023,July_2023
+Hood Head,Green,July,14,0,7,2023,July_2023
+Hood Head,Green,July,93,0,7,2023,July_2023
+Hood Head,Green,July,77,0,7,2023,July_2023
+Hood Head,Green,July,75,0,7,2023,July_2023
+Hood Head,Green,July,98,0,7,2023,July_2023
+Hood Head,Green,July,13,0,7,2023,July_2023
+Hood Head,Blue,July,31,0,7,2023,July_2023
+Hood Head,Blue,July,34,0,7,2023,July_2023
+Hood Head,Blue,July,44,0,7,2023,July_2023
+Hood Head,Blue,July,70,0,7,2023,July_2023
+Hood Head,Blue,July,54,0,7,2023,July_2023
+Hood Head,Blue,July,43,0,7,2023,July_2023
+Hood Head,Blue,July,61,0,7,2023,July_2023
+Hood Head,Blue,July,73,0,7,2023,July_2023
+Hood Head,Red,July,23,0,7,2023,July_2023
+Hood Head,Red,July,28,0,7,2023,July_2023
+Hood Head,Red,July,33,0,7,2023,July_2023
+Hood Head,Red,July,36,0,7,2023,July_2023
+Hood Head,Red,July,2,0,7,2023,July_2023
+Hood Head,Red,July,20,0,7,2023,July_2023
+Hood Head,Red,July,24,0,7,2023,July_2023
+Hood Head,Red,July,27,0,7,2023,July_2023
+Thorndyke Bay,Green,July,69,0,7,2023,July_2023
+Thorndyke Bay,Green,July,74,1,7,2023,July_2023
+Thorndyke Bay,Green,July,83,0,7,2023,July_2023
+Thorndyke Bay,Green,July,97,0,7,2023,July_2023
+Thorndyke Bay,Green,July,67,0,7,2023,July_2023
+Thorndyke Bay,Green,July,99,0,7,2023,July_2023
+Thorndyke Bay,Green,July,81,0,7,2023,July_2023
+Thorndyke Bay,Green,July,57,0,7,2023,July_2023
+Thorndyke Bay,Blue,July,36,1,7,2023,July_2023
+Thorndyke Bay,Blue,July,41,0,7,2023,July_2023
+Thorndyke Bay,Blue,July,59,0,7,2023,July_2023
+Thorndyke Bay,Blue,July,72,0,7,2023,July_2023
+Thorndyke Bay,Blue,July,35,0,7,2023,July_2023
+Thorndyke Bay,Blue,July,52,0,7,2023,July_2023
+Thorndyke Bay,Blue,July,64,0,7,2023,July_2023
+Thorndyke Bay,Blue,July,67,1,7,2023,July_2023
+Thorndyke Bay,Red,July,16,0,7,2023,July_2023
+Thorndyke Bay,Red,July,18,0,7,2023,July_2023
+Thorndyke Bay,Red,July,19,0,7,2023,July_2023
+Thorndyke Bay,Red,July,49,0,7,2023,July_2023
+Thorndyke Bay,Red,July,15,0,7,2023,July_2023
+Thorndyke Bay,Red,July,9,0,7,2023,July_2023
+Thorndyke Bay,Red,July,45,0,7,2023,July_2023
+Thorndyke Bay,Red,July,37,0,7,2023,July_2023
+Chelsea,Green,August,59,2,8,2023,August_2023
+Chelsea,Green,August,70,2,8,2023,August_2023
+Chelsea,Green,August,85,4,8,2023,August_2023
+Chelsea,Green,August,86,9,8,2023,August_2023
+Chelsea,Green,August,91,11,8,2023,August_2023
+Chelsea,Green,August,72,1,8,2023,August_2023
+Chelsea,Green,August,71,9,8,2023,August_2023
+Chelsea,Green,August,12,3,8,2023,August_2023
+Chelsea,Blue,August,27,10,8,2023,August_2023
+Chelsea,Blue,August,29,22,8,2023,August_2023
+Chelsea,Blue,August,37,10,8,2023,August_2023
+Chelsea,Blue,August,46,14,8,2023,August_2023
+Chelsea,Blue,August,48,7,8,2023,August_2023
+Chelsea,Blue,August,49,18,8,2023,August_2023
+Chelsea,Blue,August,65,18,8,2023,August_2023
+Chelsea,Blue,August,74,7,8,2023,August_2023
+Chelsea,Red,August,17,0,8,2023,August_2023
+Chelsea,Red,August,22,10,8,2023,August_2023
+Chelsea,Red,August,35,7,8,2023,August_2023
+Chelsea,Red,August,39,10,8,2023,August_2023
+Chelsea,Red,August,26,9,8,2023,August_2023
+Chelsea,Red,August,30,4,8,2023,August_2023
+Chelsea,Red,August,48,9,8,2023,August_2023
+Chelsea,Red,August,50,7,8,2023,August_2023
+Manchester,Green,August,58,1,8,2023,August_2023
+Manchester,Green,August,60,0,8,2023,August_2023
+Manchester,Green,August,79,0,8,2023,August_2023
+Manchester,Green,August,84,0,8,2023,August_2023
+Manchester,Green,August,89,0,8,2023,August_2023
+Manchester,Green,August,80,0,8,2023,August_2023
+Manchester,Green,August,100,1,8,2023,August_2023
+Manchester,Green,August,11,0,8,2023,August_2023
+Manchester,Blue,August,28,0,8,2023,August_2023
+Manchester,Blue,August,54,1,8,2023,August_2023
+Manchester,Blue,August,68,0,8,2023,August_2023
+Manchester,Blue,August,88,0,8,2023,August_2023
+Manchester,Blue,August,58,0,8,2023,August_2023
+Manchester,Blue,August,75,0,8,2023,August_2023
+Manchester,Blue,August,63,0,8,2023,August_2023
+Manchester,Blue,August,47,0,8,2023,August_2023
+Manchester,Red,August,3,0,8,2023,August_2023
+Manchester,Red,August,29,0,8,2023,August_2023
+Manchester,Red,August,34,0,8,2023,August_2023
+Manchester,Red,August,40,0,8,2023,August_2023
+Manchester,Red,August,8,0,8,2023,August_2023
+Manchester,Red,August,46,0,8,2023,August_2023
+Manchester,Red,August,10,0,8,2023,August_2023
+Manchester,Red,August,11,0,8,2023,August_2023
+Hood Head,Green,August,73,0,8,2023,August_2023
+Hood Head,Green,August,88,0,8,2023,August_2023
+Hood Head,Green,August,14,0,8,2023,August_2023
+Hood Head,Green,August,93,0,8,2023,August_2023
+Hood Head,Green,August,77,0,8,2023,August_2023
+Hood Head,Green,August,75,0,8,2023,August_2023
+Hood Head,Green,August,98,0,8,2023,August_2023
+Hood Head,Green,August,13,0,8,2023,August_2023
+Hood Head,Blue,August,31,0,8,2023,August_2023
+Hood Head,Blue,August,34,0,8,2023,August_2023
+Hood Head,Blue,August,44,0,8,2023,August_2023
+Hood Head,Blue,August,70,1,8,2023,August_2023
+Hood Head,Blue,August,54,0,8,2023,August_2023
+Hood Head,Blue,August,43,0,8,2023,August_2023
+Hood Head,Blue,August,61,0,8,2023,August_2023
+Hood Head,Blue,August,73,0,8,2023,August_2023
+Hood Head,Red,August,23,0,8,2023,August_2023
+Hood Head,Red,August,28,1,8,2023,August_2023
+Hood Head,Red,August,33,1,8,2023,August_2023
+Hood Head,Red,August,36,0,8,2023,August_2023
+Hood Head,Red,August,2,0,8,2023,August_2023
+Hood Head,Red,August,20,0,8,2023,August_2023
+Hood Head,Red,August,24,0,8,2023,August_2023
+Hood Head,Red,August,27,0,8,2023,August_2023
+Thorndyke Bay,Green,August,69,0,8,2023,August_2023
+Thorndyke Bay,Green,August,74,0,8,2023,August_2023
+Thorndyke Bay,Green,August,83,0,8,2023,August_2023
+Thorndyke Bay,Green,August,97,0,8,2023,August_2023
+Thorndyke Bay,Green,August,67,0,8,2023,August_2023
+Thorndyke Bay,Green,August,99,0,8,2023,August_2023
+Thorndyke Bay,Green,August,81,0,8,2023,August_2023
+Thorndyke Bay,Green,August,57,1,8,2023,August_2023
+Thorndyke Bay,Blue,August,36,0,8,2023,August_2023
+Thorndyke Bay,Blue,August,41,0,8,2023,August_2023
+Thorndyke Bay,Blue,August,59,0,8,2023,August_2023
+Thorndyke Bay,Blue,August,72,0,8,2023,August_2023
+Thorndyke Bay,Blue,August,35,0,8,2023,August_2023
+Thorndyke Bay,Blue,August,52,0,8,2023,August_2023
+Thorndyke Bay,Blue,August,64,0,8,2023,August_2023
+Thorndyke Bay,Blue,August,67,1,8,2023,August_2023
+Thorndyke Bay,Red,August,16,0,8,2023,August_2023
+Thorndyke Bay,Red,August,18,0,8,2023,August_2023
+Thorndyke Bay,Red,August,19,0,8,2023,August_2023
+Thorndyke Bay,Red,August,49,0,8,2023,August_2023
+Thorndyke Bay,Red,August,15,0,8,2023,August_2023
+Thorndyke Bay,Red,August,9,0,8,2023,August_2023
+Thorndyke Bay,Red,August,45,1,8,2023,August_2023
+Thorndyke Bay,Red,August,37,0,8,2023,August_2023
+Chelsea,Green,September,59,21,9,2023,September_2023
+Chelsea,Green,September,70,2,9,2023,September_2023
+Chelsea,Green,September,85,0,9,2023,September_2023
+Chelsea,Green,September,86,9,9,2023,September_2023
+Chelsea,Green,September,91,4,9,2023,September_2023
+Chelsea,Green,September,72,10,9,2023,September_2023
+Chelsea,Green,September,71,6,9,2023,September_2023
+Chelsea,Green,September,12,1,9,2023,September_2023
+Chelsea,Blue,September,27,11,9,2023,September_2023
+Chelsea,Blue,September,29,0,9,2023,September_2023
+Chelsea,Blue,September,37,9,9,2023,September_2023
+Chelsea,Blue,September,46,3,9,2023,September_2023
+Chelsea,Blue,September,48,23,9,2023,September_2023
+Chelsea,Blue,September,49,11,9,2023,September_2023
+Chelsea,Blue,September,65,0,9,2023,September_2023
+Chelsea,Blue,September,74,2,9,2023,September_2023
+Chelsea,Red,September,17,5,9,2023,September_2023
+Chelsea,Red,September,22,11,9,2023,September_2023
+Chelsea,Red,September,35,0,9,2023,September_2023
+Chelsea,Red,September,39,3,9,2023,September_2023
+Chelsea,Red,September,26,4,9,2023,September_2023
+Chelsea,Red,September,30,17,9,2023,September_2023
+Chelsea,Red,September,48,11,9,2023,September_2023
+Chelsea,Red,September,50,3,9,2023,September_2023
+Manchester,Green,September,58,0,9,2023,September_2023
+Manchester,Green,September,60,0,9,2023,September_2023
+Manchester,Green,September,79,1,9,2023,September_2023
+Manchester,Green,September,84,0,9,2023,September_2023
+Manchester,Green,September,89,0,9,2023,September_2023
+Manchester,Green,September,80,0,9,2023,September_2023
+Manchester,Green,September,100,0,9,2023,September_2023
+Manchester,Green,September,11,0,9,2023,September_2023
+Manchester,Blue,September,28,0,9,2023,September_2023
+Manchester,Blue,September,54,0,9,2023,September_2023
+Manchester,Blue,September,68,0,9,2023,September_2023
+Manchester,Blue,September,88,0,9,2023,September_2023
+Manchester,Blue,September,58,0,9,2023,September_2023
+Manchester,Blue,September,75,0,9,2023,September_2023
+Manchester,Blue,September,63,0,9,2023,September_2023
+Manchester,Blue,September,47,0,9,2023,September_2023
+Manchester,Red,September,3,0,9,2023,September_2023
+Manchester,Red,September,29,0,9,2023,September_2023
+Manchester,Red,September,34,0,9,2023,September_2023
+Manchester,Red,September,40,1,9,2023,September_2023
+Manchester,Red,September,8,0,9,2023,September_2023
+Manchester,Red,September,46,0,9,2023,September_2023
+Manchester,Red,September,10,0,9,2023,September_2023
+Manchester,Red,September,11,1,9,2023,September_2023
+Hood Head,Green,September,73,0,9,2023,September_2023
+Hood Head,Green,September,88,0,9,2023,September_2023
+Hood Head,Green,September,14,0,9,2023,September_2023
+Hood Head,Green,September,93,0,9,2023,September_2023
+Hood Head,Green,September,77,0,9,2023,September_2023
+Hood Head,Green,September,75,1,9,2023,September_2023
+Hood Head,Green,September,98,1,9,2023,September_2023
+Hood Head,Green,September,13,3,9,2023,September_2023
+Hood Head,Blue,September,31,0,9,2023,September_2023
+Hood Head,Blue,September,34,2,9,2023,September_2023
+Hood Head,Blue,September,44,0,9,2023,September_2023
+Hood Head,Blue,September,70,0,9,2023,September_2023
+Hood Head,Blue,September,54,0,9,2023,September_2023
+Hood Head,Blue,September,43,7,9,2023,September_2023
+Hood Head,Blue,September,61,0,9,2023,September_2023
+Hood Head,Blue,September,73,1,9,2023,September_2023
+Hood Head,Red,September,23,3,9,2023,September_2023
+Hood Head,Red,September,28,0,9,2023,September_2023
+Hood Head,Red,September,33,0,9,2023,September_2023
+Hood Head,Red,September,36,0,9,2023,September_2023
+Hood Head,Red,September,2,4,9,2023,September_2023
+Hood Head,Red,September,20,0,9,2023,September_2023
+Hood Head,Red,September,24,0,9,2023,September_2023
+Hood Head,Red,September,27,0,9,2023,September_2023
+Thorndyke Bay,Green,September,69,1,9,2023,September_2023
+Thorndyke Bay,Green,September,74,0,9,2023,September_2023
+Thorndyke Bay,Green,September,83,0,9,2023,September_2023
+Thorndyke Bay,Green,September,97,0,9,2023,September_2023
+Thorndyke Bay,Green,September,67,0,9,2023,September_2023
+Thorndyke Bay,Green,September,99,0,9,2023,September_2023
+Thorndyke Bay,Green,September,81,0,9,2023,September_2023
+Thorndyke Bay,Green,September,57,0,9,2023,September_2023
+Thorndyke Bay,Blue,September,36,1,9,2023,September_2023
+Thorndyke Bay,Blue,September,41,0,9,2023,September_2023
+Thorndyke Bay,Blue,September,59,0,9,2023,September_2023
+Thorndyke Bay,Blue,September,72,0,9,2023,September_2023
+Thorndyke Bay,Blue,September,35,0,9,2023,September_2023
+Thorndyke Bay,Blue,September,52,0,9,2023,September_2023
+Thorndyke Bay,Blue,September,64,0,9,2023,September_2023
+Thorndyke Bay,Blue,September,67,0,9,2023,September_2023
+Thorndyke Bay,Red,September,16,0,9,2023,September_2023
+Thorndyke Bay,Red,September,18,0,9,2023,September_2023
+Thorndyke Bay,Red,September,19,0,9,2023,September_2023
+Thorndyke Bay,Red,September,49,0,9,2023,September_2023
+Thorndyke Bay,Red,September,15,0,9,2023,September_2023
+Thorndyke Bay,Red,September,9,0,9,2023,September_2023
+Thorndyke Bay,Red,September,45,0,9,2023,September_2023
+Thorndyke Bay,Red,September,37,0,9,2023,September_2023
+Chelsea,Green,October,59,7,10,2023,October_2023
+Chelsea,Green,October,70,0,10,2023,October_2023
+Chelsea,Green,October,85,17,10,2023,October_2023
+Chelsea,Green,October,86,7,10,2023,October_2023
+Chelsea,Green,October,91,0,10,2023,October_2023
+Chelsea,Green,October,72,6,10,2023,October_2023
+Chelsea,Green,October,71,4,10,2023,October_2023
+Chelsea,Green,October,12,5,10,2023,October_2023
+Chelsea,Blue,October,27,1,10,2023,October_2023
+Chelsea,Blue,October,29,18,10,2023,October_2023
+Chelsea,Blue,October,37,7,10,2023,October_2023
+Chelsea,Blue,October,46,3,10,2023,October_2023
+Chelsea,Blue,October,48,2,10,2023,October_2023
+Chelsea,Blue,October,49,6,10,2023,October_2023
+Chelsea,Blue,October,65,9,10,2023,October_2023
+Chelsea,Blue,October,74,11,10,2023,October_2023
+Chelsea,Red,October,17,4,10,2023,October_2023
+Chelsea,Red,October,22,2,10,2023,October_2023
+Chelsea,Red,October,35,2,10,2023,October_2023
+Chelsea,Red,October,39,10,10,2023,October_2023
+Chelsea,Red,October,26,0,10,2023,October_2023
+Chelsea,Red,October,30,4,10,2023,October_2023
+Chelsea,Red,October,48,2,10,2023,October_2023
+Chelsea,Red,October,50,4,10,2023,October_2023
+Manchester,Green,October,58,0,10,2023,October_2023
+Manchester,Green,October,60,0,10,2023,October_2023
+Manchester,Green,October,79,0,10,2023,October_2023
+Manchester,Green,October,84,0,10,2023,October_2023
+Manchester,Green,October,89,0,10,2023,October_2023
+Manchester,Green,October,80,1,10,2023,October_2023
+Manchester,Green,October,100,2,10,2023,October_2023
+Manchester,Green,October,11,0,10,2023,October_2023
+Manchester,Blue,October,28,1,10,2023,October_2023
+Manchester,Blue,October,54,1,10,2023,October_2023
+Manchester,Blue,October,68,0,10,2023,October_2023
+Manchester,Blue,October,88,0,10,2023,October_2023
+Manchester,Blue,October,58,0,10,2023,October_2023
+Manchester,Blue,October,75,0,10,2023,October_2023
+Manchester,Blue,October,63,0,10,2023,October_2023
+Manchester,Blue,October,47,0,10,2023,October_2023
+Manchester,Red,October,3,1,10,2023,October_2023
+Manchester,Red,October,29,0,10,2023,October_2023
+Manchester,Red,October,34,0,10,2023,October_2023
+Manchester,Red,October,40,0,10,2023,October_2023
+Manchester,Red,October,8,0,10,2023,October_2023
+Manchester,Red,October,46,0,10,2023,October_2023
+Manchester,Red,October,10,1,10,2023,October_2023
+Manchester,Red,October,11,0,10,2023,October_2023
+Hood Head,Green,October,73,1,10,2023,October_2023
+Hood Head,Green,October,88,0,10,2023,October_2023
+Hood Head,Green,October,14,2,10,2023,October_2023
+Hood Head,Green,October,93,0,10,2023,October_2023
+Hood Head,Green,October,77,0,10,2023,October_2023
+Hood Head,Green,October,75,1,10,2023,October_2023
+Hood Head,Green,October,98,0,10,2023,October_2023
+Hood Head,Green,October,13,5,10,2023,October_2023
+Hood Head,Blue,October,31,0,10,2023,October_2023
+Hood Head,Blue,October,34,0,10,2023,October_2023
+Hood Head,Blue,October,44,2,10,2023,October_2023
+Hood Head,Blue,October,70,0,10,2023,October_2023
+Hood Head,Blue,October,54,7,10,2023,October_2023
+Hood Head,Blue,October,43,5,10,2023,October_2023
+Hood Head,Blue,October,61,0,10,2023,October_2023
+Hood Head,Blue,October,73,0,10,2023,October_2023
+Hood Head,Red,October,23,0,10,2023,October_2023
+Hood Head,Red,October,28,1,10,2023,October_2023
+Hood Head,Red,October,33,1,10,2023,October_2023
+Hood Head,Red,October,36,3,10,2023,October_2023
+Hood Head,Red,October,2,0,10,2023,October_2023
+Hood Head,Red,October,20,0,10,2023,October_2023
+Hood Head,Red,October,24,0,10,2023,October_2023
+Hood Head,Red,October,27,2,10,2023,October_2023
+Thorndyke Bay,Green,October,69,0,10,2023,October_2023
+Thorndyke Bay,Green,October,74,0,10,2023,October_2023
+Thorndyke Bay,Green,October,83,0,10,2023,October_2023
+Thorndyke Bay,Green,October,97,0,10,2023,October_2023
+Thorndyke Bay,Green,October,67,0,10,2023,October_2023
+Thorndyke Bay,Green,October,99,2,10,2023,October_2023
+Thorndyke Bay,Green,October,81,0,10,2023,October_2023
+Thorndyke Bay,Green,October,57,2,10,2023,October_2023
+Thorndyke Bay,Blue,October,36,0,10,2023,October_2023
+Thorndyke Bay,Blue,October,41,0,10,2023,October_2023
+Thorndyke Bay,Blue,October,59,0,10,2023,October_2023
+Thorndyke Bay,Blue,October,72,0,10,2023,October_2023
+Thorndyke Bay,Blue,October,35,0,10,2023,October_2023
+Thorndyke Bay,Blue,October,52,0,10,2023,October_2023
+Thorndyke Bay,Blue,October,64,0,10,2023,October_2023
+Thorndyke Bay,Blue,October,67,0,10,2023,October_2023
+Thorndyke Bay,Red,October,16,0,10,2023,October_2023
+Thorndyke Bay,Red,October,18,0,10,2023,October_2023
+Thorndyke Bay,Red,October,19,1,10,2023,October_2023
+Thorndyke Bay,Red,October,49,0,10,2023,October_2023
+Thorndyke Bay,Red,October,15,1,10,2023,October_2023
+Thorndyke Bay,Red,October,9,0,10,2023,October_2023
+Thorndyke Bay,Red,October,45,0,10,2023,October_2023
+Thorndyke Bay,Red,October,37,0,10,2023,October_2023
+Chelsea,Green,May,59,1,5,2024,May_2024
+Chelsea,Green,May,70,9,5,2024,May_2024
+Chelsea,Green,May,85,0,5,2024,May_2024
+Chelsea,Green,May,86,0,5,2024,May_2024
+Chelsea,Green,May,91,0,5,2024,May_2024
+Chelsea,Green,May,72,4,5,2024,May_2024
+Chelsea,Green,May,71,2,5,2024,May_2024
+Chelsea,Green,May,12,5,5,2024,May_2024
+Chelsea,Blue,May,27,0,5,2024,May_2024
+Chelsea,Blue,May,29,0,5,2024,May_2024
+Chelsea,Blue,May,37,2,5,2024,May_2024
+Chelsea,Blue,May,46,0,5,2024,May_2024
+Chelsea,Blue,May,48,1,5,2024,May_2024
+Chelsea,Blue,May,49,0,5,2024,May_2024
+Chelsea,Blue,May,65,0,5,2024,May_2024
+Chelsea,Blue,May,74,5,5,2024,May_2024
+Chelsea,Red,May,17,4,5,2024,May_2024
+Chelsea,Red,May,22,3,5,2024,May_2024
+Chelsea,Red,May,35,1,5,2024,May_2024
+Chelsea,Red,May,39,3,5,2024,May_2024
+Chelsea,Red,May,26,0,5,2024,May_2024
+Chelsea,Red,May,30,0,5,2024,May_2024
+Chelsea,Red,May,48,6,5,2024,May_2024
+Chelsea,Red,May,50,0,5,2024,May_2024
+Manchester,Green,May,58,0,5,2024,May_2024
+Manchester,Green,May,60,4,5,2024,May_2024
+Manchester,Green,May,79,3,5,2024,May_2024
+Manchester,Green,May,84,0,5,2024,May_2024
+Manchester,Green,May,89,0,5,2024,May_2024
+Manchester,Green,May,80,1,5,2024,May_2024
+Manchester,Green,May,100,1,5,2024,May_2024
+Manchester,Green,May,11,1,5,2024,May_2024
+Manchester,Blue,May,28,1,5,2024,May_2024
+Manchester,Blue,May,54,0,5,2024,May_2024
+Manchester,Blue,May,68,1,5,2024,May_2024
+Manchester,Blue,May,88,0,5,2024,May_2024
+Manchester,Blue,May,58,1,5,2024,May_2024
+Manchester,Blue,May,75,7,5,2024,May_2024
+Manchester,Blue,May,63,0,5,2024,May_2024
+Manchester,Blue,May,47,1,5,2024,May_2024
+Manchester,Red,May,3,0,5,2024,May_2024
+Manchester,Red,May,29,1,5,2024,May_2024
+Manchester,Red,May,34,0,5,2024,May_2024
+Manchester,Red,May,40,0,5,2024,May_2024
+Manchester,Red,May,8,0,5,2024,May_2024
+Manchester,Red,May,46,0,5,2024,May_2024
+Manchester,Red,May,10,1,5,2024,May_2024
+Manchester,Red,May,11,1,5,2024,May_2024
+Hood Head,Green,May,73,3,5,2024,May_2024
+Hood Head,Green,May,88,0,5,2024,May_2024
+Hood Head,Green,May,14,0,5,2024,May_2024
+Hood Head,Green,May,93,0,5,2024,May_2024
+Hood Head,Green,May,77,4,5,2024,May_2024
+Hood Head,Green,May,75,0,5,2024,May_2024
+Hood Head,Green,May,98,0,5,2024,May_2024
+Hood Head,Green,May,13,0,5,2024,May_2024
+Hood Head,Blue,May,31,1,5,2024,May_2024
+Hood Head,Blue,May,34,1,5,2024,May_2024
+Hood Head,Blue,May,44,1,5,2024,May_2024
+Hood Head,Blue,May,70,0,5,2024,May_2024
+Hood Head,Blue,May,54,0,5,2024,May_2024
+Hood Head,Blue,May,43,0,5,2024,May_2024
+Hood Head,Blue,May,61,0,5,2024,May_2024
+Hood Head,Blue,May,73,1,5,2024,May_2024
+Hood Head,Red,May,23,1,5,2024,May_2024
+Hood Head,Red,May,28,0,5,2024,May_2024
+Hood Head,Red,May,33,0,5,2024,May_2024
+Hood Head,Red,May,36,0,5,2024,May_2024
+Hood Head,Red,May,2,0,5,2024,May_2024
+Hood Head,Red,May,20,0,5,2024,May_2024
+Hood Head,Red,May,24,0,5,2024,May_2024
+Hood Head,Red,May,27,0,5,2024,May_2024
+Thorndyke Bay,Green,May,69,0,5,2024,May_2024
+Thorndyke Bay,Green,May,74,0,5,2024,May_2024
+Thorndyke Bay,Green,May,83,0,5,2024,May_2024
+Thorndyke Bay,Green,May,97,0,5,2024,May_2024
+Thorndyke Bay,Green,May,67,0,5,2024,May_2024
+Thorndyke Bay,Green,May,99,0,5,2024,May_2024
+Thorndyke Bay,Green,May,81,0,5,2024,May_2024
+Thorndyke Bay,Green,May,57,2,5,2024,May_2024
+Thorndyke Bay,Blue,May,36,6,5,2024,May_2024
+Thorndyke Bay,Blue,May,41,1,5,2024,May_2024
+Thorndyke Bay,Blue,May,59,2,5,2024,May_2024
+Thorndyke Bay,Blue,May,72,0,5,2024,May_2024
+Thorndyke Bay,Blue,May,35,0,5,2024,May_2024
+Thorndyke Bay,Blue,May,52,4,5,2024,May_2024
+Thorndyke Bay,Blue,May,64,2,5,2024,May_2024
+Thorndyke Bay,Blue,May,67,1,5,2024,May_2024
+Thorndyke Bay,Red,May,16,3,5,2024,May_2024
+Thorndyke Bay,Red,May,18,2,5,2024,May_2024
+Thorndyke Bay,Red,May,19,2,5,2024,May_2024
+Thorndyke Bay,Red,May,49,1,5,2024,May_2024
+Thorndyke Bay,Red,May,15,0,5,2024,May_2024
+Thorndyke Bay,Red,May,9,1,5,2024,May_2024
+Thorndyke Bay,Red,May,45,1,5,2024,May_2024
+Thorndyke Bay,Red,May,37,2,5,2024,May_2024
+Chelsea,Green,June,59,,6,2024,June_2024
+Chelsea,Green,June,70,,6,2024,June_2024
+Chelsea,Green,June,85,,6,2024,June_2024
+Chelsea,Green,June,86,,6,2024,June_2024
+Chelsea,Green,June,91,,6,2024,June_2024
+Chelsea,Green,June,72,,6,2024,June_2024
+Chelsea,Green,June,71,,6,2024,June_2024
+Chelsea,Green,June,12,,6,2024,June_2024
+Chelsea,Blue,June,27,,6,2024,June_2024
+Chelsea,Blue,June,29,,6,2024,June_2024
+Chelsea,Blue,June,37,,6,2024,June_2024
+Chelsea,Blue,June,46,,6,2024,June_2024
+Chelsea,Blue,June,48,,6,2024,June_2024
+Chelsea,Blue,June,49,,6,2024,June_2024
+Chelsea,Blue,June,65,,6,2024,June_2024
+Chelsea,Blue,June,74,,6,2024,June_2024
+Chelsea,Red,June,17,,6,2024,June_2024
+Chelsea,Red,June,22,,6,2024,June_2024
+Chelsea,Red,June,35,,6,2024,June_2024
+Chelsea,Red,June,39,,6,2024,June_2024
+Chelsea,Red,June,26,,6,2024,June_2024
+Chelsea,Red,June,30,,6,2024,June_2024
+Chelsea,Red,June,48,,6,2024,June_2024
+Chelsea,Red,June,50,,6,2024,June_2024
+Manchester,Green,June,58,,6,2024,June_2024
+Manchester,Green,June,60,,6,2024,June_2024
+Manchester,Green,June,79,,6,2024,June_2024
+Manchester,Green,June,84,,6,2024,June_2024
+Manchester,Green,June,89,,6,2024,June_2024
+Manchester,Green,June,80,,6,2024,June_2024
+Manchester,Green,June,100,,6,2024,June_2024
+Manchester,Green,June,11,,6,2024,June_2024
+Manchester,Blue,June,28,,6,2024,June_2024
+Manchester,Blue,June,54,,6,2024,June_2024
+Manchester,Blue,June,68,,6,2024,June_2024
+Manchester,Blue,June,88,,6,2024,June_2024
+Manchester,Blue,June,58,,6,2024,June_2024
+Manchester,Blue,June,75,,6,2024,June_2024
+Manchester,Blue,June,63,,6,2024,June_2024
+Manchester,Blue,June,47,,6,2024,June_2024
+Manchester,Red,June,3,,6,2024,June_2024
+Manchester,Red,June,29,,6,2024,June_2024
+Manchester,Red,June,34,,6,2024,June_2024
+Manchester,Red,June,40,,6,2024,June_2024
+Manchester,Red,June,8,,6,2024,June_2024
+Manchester,Red,June,46,,6,2024,June_2024
+Manchester,Red,June,10,,6,2024,June_2024
+Manchester,Red,June,11,,6,2024,June_2024
+Hood Head,Green,June,73,,6,2024,June_2024
+Hood Head,Green,June,88,,6,2024,June_2024
+Hood Head,Green,June,14,,6,2024,June_2024
+Hood Head,Green,June,93,,6,2024,June_2024
+Hood Head,Green,June,77,,6,2024,June_2024
+Hood Head,Green,June,75,,6,2024,June_2024
+Hood Head,Green,June,98,,6,2024,June_2024
+Hood Head,Green,June,13,,6,2024,June_2024
+Hood Head,Blue,June,31,,6,2024,June_2024
+Hood Head,Blue,June,34,,6,2024,June_2024
+Hood Head,Blue,June,44,,6,2024,June_2024
+Hood Head,Blue,June,70,,6,2024,June_2024
+Hood Head,Blue,June,54,,6,2024,June_2024
+Hood Head,Blue,June,43,,6,2024,June_2024
+Hood Head,Blue,June,61,,6,2024,June_2024
+Hood Head,Blue,June,73,,6,2024,June_2024
+Hood Head,Red,June,23,,6,2024,June_2024
+Hood Head,Red,June,28,,6,2024,June_2024
+Hood Head,Red,June,33,,6,2024,June_2024
+Hood Head,Red,June,36,,6,2024,June_2024
+Hood Head,Red,June,2,,6,2024,June_2024
+Hood Head,Red,June,20,,6,2024,June_2024
+Hood Head,Red,June,24,,6,2024,June_2024
+Hood Head,Red,June,27,,6,2024,June_2024
+Thorndyke Bay,Green,June,69,,6,2024,June_2024
+Thorndyke Bay,Green,June,74,,6,2024,June_2024
+Thorndyke Bay,Green,June,83,,6,2024,June_2024
+Thorndyke Bay,Green,June,97,,6,2024,June_2024
+Thorndyke Bay,Green,June,67,,6,2024,June_2024
+Thorndyke Bay,Green,June,99,,6,2024,June_2024
+Thorndyke Bay,Green,June,81,,6,2024,June_2024
+Thorndyke Bay,Green,June,57,,6,2024,June_2024
+Thorndyke Bay,Blue,June,36,,6,2024,June_2024
+Thorndyke Bay,Blue,June,41,,6,2024,June_2024
+Thorndyke Bay,Blue,June,59,,6,2024,June_2024
+Thorndyke Bay,Blue,June,72,,6,2024,June_2024
+Thorndyke Bay,Blue,June,35,,6,2024,June_2024
+Thorndyke Bay,Blue,June,52,,6,2024,June_2024
+Thorndyke Bay,Blue,June,64,,6,2024,June_2024
+Thorndyke Bay,Blue,June,67,,6,2024,June_2024
+Thorndyke Bay,Red,June,16,,6,2024,June_2024
+Thorndyke Bay,Red,June,18,,6,2024,June_2024
+Thorndyke Bay,Red,June,19,,6,2024,June_2024
+Thorndyke Bay,Red,June,49,,6,2024,June_2024
+Thorndyke Bay,Red,June,15,,6,2024,June_2024
+Thorndyke Bay,Red,June,9,,6,2024,June_2024
+Thorndyke Bay,Red,June,45,,6,2024,June_2024
+Thorndyke Bay,Red,June,37,,6,2024,June_2024
+Chelsea,Green,July,59,,7,2024,July_2024
+Chelsea,Green,July,70,,7,2024,July_2024
+Chelsea,Green,July,85,,7,2024,July_2024
+Chelsea,Green,July,86,,7,2024,July_2024
+Chelsea,Green,July,91,,7,2024,July_2024
+Chelsea,Green,July,72,,7,2024,July_2024
+Chelsea,Green,July,71,,7,2024,July_2024
+Chelsea,Green,July,12,,7,2024,July_2024
+Chelsea,Blue,July,27,,7,2024,July_2024
+Chelsea,Blue,July,29,,7,2024,July_2024
+Chelsea,Blue,July,37,,7,2024,July_2024
+Chelsea,Blue,July,46,,7,2024,July_2024
+Chelsea,Blue,July,48,,7,2024,July_2024
+Chelsea,Blue,July,49,,7,2024,July_2024
+Chelsea,Blue,July,65,,7,2024,July_2024
+Chelsea,Blue,July,74,,7,2024,July_2024
+Chelsea,Red,July,17,,7,2024,July_2024
+Chelsea,Red,July,22,,7,2024,July_2024
+Chelsea,Red,July,35,,7,2024,July_2024
+Chelsea,Red,July,39,,7,2024,July_2024
+Chelsea,Red,July,26,,7,2024,July_2024
+Chelsea,Red,July,30,,7,2024,July_2024
+Chelsea,Red,July,48,,7,2024,July_2024
+Chelsea,Red,July,50,,7,2024,July_2024
+Manchester,Green,July,58,,7,2024,July_2024
+Manchester,Green,July,60,,7,2024,July_2024
+Manchester,Green,July,79,,7,2024,July_2024
+Manchester,Green,July,84,,7,2024,July_2024
+Manchester,Green,July,89,,7,2024,July_2024
+Manchester,Green,July,80,,7,2024,July_2024
+Manchester,Green,July,100,,7,2024,July_2024
+Manchester,Green,July,11,,7,2024,July_2024
+Manchester,Blue,July,28,,7,2024,July_2024
+Manchester,Blue,July,54,,7,2024,July_2024
+Manchester,Blue,July,68,,7,2024,July_2024
+Manchester,Blue,July,88,,7,2024,July_2024
+Manchester,Blue,July,58,,7,2024,July_2024
+Manchester,Blue,July,75,,7,2024,July_2024
+Manchester,Blue,July,63,,7,2024,July_2024
+Manchester,Blue,July,47,,7,2024,July_2024
+Manchester,Red,July,3,,7,2024,July_2024
+Manchester,Red,July,29,,7,2024,July_2024
+Manchester,Red,July,34,,7,2024,July_2024
+Manchester,Red,July,40,,7,2024,July_2024
+Manchester,Red,July,8,,7,2024,July_2024
+Manchester,Red,July,46,,7,2024,July_2024
+Manchester,Red,July,10,,7,2024,July_2024
+Manchester,Red,July,11,,7,2024,July_2024
+Hood Head,Green,July,73,,7,2024,July_2024
+Hood Head,Green,July,88,,7,2024,July_2024
+Hood Head,Green,July,14,,7,2024,July_2024
+Hood Head,Green,July,93,,7,2024,July_2024
+Hood Head,Green,July,77,,7,2024,July_2024
+Hood Head,Green,July,75,,7,2024,July_2024
+Hood Head,Green,July,98,,7,2024,July_2024
+Hood Head,Green,July,13,,7,2024,July_2024
+Hood Head,Blue,July,31,,7,2024,July_2024
+Hood Head,Blue,July,34,,7,2024,July_2024
+Hood Head,Blue,July,44,,7,2024,July_2024
+Hood Head,Blue,July,70,,7,2024,July_2024
+Hood Head,Blue,July,54,,7,2024,July_2024
+Hood Head,Blue,July,43,,7,2024,July_2024
+Hood Head,Blue,July,61,,7,2024,July_2024
+Hood Head,Blue,July,73,,7,2024,July_2024
+Hood Head,Red,July,23,,7,2024,July_2024
+Hood Head,Red,July,28,,7,2024,July_2024
+Hood Head,Red,July,33,,7,2024,July_2024
+Hood Head,Red,July,36,,7,2024,July_2024
+Hood Head,Red,July,2,,7,2024,July_2024
+Hood Head,Red,July,20,,7,2024,July_2024
+Hood Head,Red,July,24,,7,2024,July_2024
+Hood Head,Red,July,27,,7,2024,July_2024
+Thorndyke Bay,Green,July,69,,7,2024,July_2024
+Thorndyke Bay,Green,July,74,,7,2024,July_2024
+Thorndyke Bay,Green,July,83,,7,2024,July_2024
+Thorndyke Bay,Green,July,97,,7,2024,July_2024
+Thorndyke Bay,Green,July,67,,7,2024,July_2024
+Thorndyke Bay,Green,July,99,,7,2024,July_2024
+Thorndyke Bay,Green,July,81,,7,2024,July_2024
+Thorndyke Bay,Green,July,57,,7,2024,July_2024
+Thorndyke Bay,Blue,July,36,,7,2024,July_2024
+Thorndyke Bay,Blue,July,41,,7,2024,July_2024
+Thorndyke Bay,Blue,July,59,,7,2024,July_2024
+Thorndyke Bay,Blue,July,72,,7,2024,July_2024
+Thorndyke Bay,Blue,July,35,,7,2024,July_2024
+Thorndyke Bay,Blue,July,52,,7,2024,July_2024
+Thorndyke Bay,Blue,July,64,,7,2024,July_2024
+Thorndyke Bay,Blue,July,67,,7,2024,July_2024
+Thorndyke Bay,Red,July,16,,7,2024,July_2024
+Thorndyke Bay,Red,July,18,,7,2024,July_2024
+Thorndyke Bay,Red,July,19,,7,2024,July_2024
+Thorndyke Bay,Red,July,49,,7,2024,July_2024
+Thorndyke Bay,Red,July,15,,7,2024,July_2024
+Thorndyke Bay,Red,July,9,,7,2024,July_2024
+Thorndyke Bay,Red,July,45,,7,2024,July_2024
+Thorndyke Bay,Red,July,37,,7,2024,July_2024

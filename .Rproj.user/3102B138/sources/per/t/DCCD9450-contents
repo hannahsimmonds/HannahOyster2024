@@ -47,9 +47,28 @@ ggplot(data = filtered_data, aes(x = Date.Time..GMT.07.00, y = Temp_C, color = S
 DO_overtime <- ggplot(data = filtered_data, aes(x = Date.Time..GMT.07.00, y = Temp_C, color = Site)) +
   geom_line(na.rm = TRUE) +
   labs(title = "Site Temperature Over Time", x = " ", y = "Temperature, Celcius", color = "Site")
-)
 
-##average values by day 
+
+##average values by day by site, create graphs
+
+#temp
+daily_tempavg <- filtered_data %>% 
+  group_by(Site, Date = as.Date(floor_date(Date.Time..GMT.07.00, "day"))) %>% #group by date
+  summarize(Average_Temp = mean(Temp_C, na.rm = TRUE)) #get averages
+
+ggplot(data= daily_tempavg, aes(x = Date, y = Average_Temp, color = Site)) +
+  geom_line(na.rm = TRUE) +
+  labs(title = "Temperature Over Time", x = " ", y = "Temperature, Celcius", color = "Site")
+
+#DO
+daily_DOavg <- filtered_data %>% 
+  group_by(Site, Date = as.Date(floor_date(Date.Time..GMT.07.00, "day"))) %>%
+  summarize(Average_DO =mean(DO_mgL, na.rm = TRUE))
+
+ggplot(data= daily_DOavg, aes(x = Date, y = Average_DO, color = Site)) +
+  geom_line(na.rm = TRUE) +
+  labs(title = "Dissolved O2 Over Time", x = " ", y = "DO, mg/L", color = "Site")
+
 
 
   
