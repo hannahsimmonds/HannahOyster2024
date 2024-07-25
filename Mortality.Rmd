@@ -46,10 +46,13 @@ str(survdat)
 Create a new data sheet that calculates the number of survivors at each sampling event (as opposed to the number of moralities)
 
 ```{r, warning=FALSE, error=FALSE, message=FALSE, echo=FALSE}
-widebagmort <- pivot_wider(survdat[-c(6)], names_from = Month_year, values_from = Mort_count) #C6 is removed because this is numerical month
+widebagmort <- pivot_wider(survdat[-c(6, 3, 7)], names_from = Month_year, values_from = Mort_count)#C6 is removed because this is numerical month
 #replace NA in the mortality columns with 0
 widebagmort <- widebagmort %>%
   mutate_at(vars(May_2023, June_2023, July_2023, August_2023, September_2023, October_2023, May_2024, June_2024, July_2024), ~replace_na(., 0))
+widebagmort <- widebagmort %>% 
+  group_by(Site, Bag_Col, Bag_no, )
+summarise(widebagmort)
 widebagmort$April_2023_survivors <- 50
 widebagmort$May_2023_survivors <- widebagmort$April_2023_survivors-widebagmort$May_2023
 widebagmort$June_2023_survivors <- widebagmort$May_2023_survivors-widebagmort$June_2023
@@ -61,7 +64,7 @@ widebagmort$May_2024_survivors <- widebagmort$October_2023_survivors-widebagmort
 widebagmort$June_2024_survivors <- widebagmort$May_2024_survivors-widebagmort$June_2024
 widebagmort$July_2024_survivors <- widebagmort$June_2024_survivors-widebagmort$July_2024
 
-no_survivors <- widebagmort %>% pivot_longer(cols=c(15:24),#######################As months are added make sure their columns are selected - change to an auto thing*************
+no_survivors <- widebagmort %>% pivot_longer(cols=c(13:22),#######################As months are added make sure their columns are selected - change to an auto thing*************
                                                          names_to='Month_survivor',
                                                          values_to='No_survivors') %>% 
   select("Site", "Bag_Col", "Bag_no",'Month_survivor','No_survivors')
@@ -90,14 +93,15 @@ Create a basic survival plot taht shows the number of survivors at each sampling
 ```{r, echo=FALSE}
 
 
-mean_survival_proportion %>% ggplot(aes(x=factor(Month_survivor, level=c("April_survivors", 'May_survivors', 'June_survivors', 'July_survivors', 'August_survivors', 'Sept_survivors', 'Oct_survivors')), ###add new months here**********
+mean_survival_proportion %>% ggplot(aes(x=factor(Month_survivor, level=c("April_2023_survivors", "May_2023_survivors", "June_2023_survivors", "July_2023_survivors", "August_2023_survivors", "September_2023_survivors", "October_2023_survivors", "May_2024_survivors", "June_2024_survivors", "July_2024_survivors")), ###add new months here**********
              y=meansurv, colour = Bag_Col, group=Bag_Col))+
-  scale_x_discrete(labels=c('April', 'May', 'June', 'July', 'August', 'September', 'October'))+####################Add new months here ***********************
+  scale_x_discrete(labels=c('April 23', 'May 23', 'June 23', 'July 23', 'August 23', 'September 23', 'October 23', 'May 24', 'June 24', 'July 24'))+####################Add new months here ***********************
   scale_color_manual(values=c('blue', 'green', 'red'), name = "Ploidy", labels = c("Diploid", "Induced Triploid", "Mated Triploid"))+
   geom_errorbar(aes(ymin=meansurv-semsurv, ymax=meansurv+semsurv))+
   geom_line()+facet_grid(~Site)+
   xlab("Month")+ylab("Mean number of survivors per bag (± SEM)")+
-  theme_bw()+ggtitle("Number of survivors since experiment start")
+  theme_bw()+ggtitle("Number of survivors since experiment start")+
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
 ```
 
 Need to turn the data into individual survival data. Each oyster should be listed with either alive or dead at each sampling point. Each oyster will need an ID number. 8 Cages per ploidy per site were monitored for mortality so a total of 400 oysters per ploidy per site at the start. Total of 4800 oysters. 
