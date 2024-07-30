@@ -92,17 +92,64 @@ Create a basic survival plot taht shows the number of survivors at each sampling
 
 ```{r, echo=FALSE}
 
-
-mean_survival_proportion %>% ggplot(aes(x=factor(Month_survivor, level=c("April_2023_survivors", "May_2023_survivors", "June_2023_survivors", "July_2023_survivors", "August_2023_survivors", "September_2023_survivors", "October_2023_survivors", "May_2024_survivors", "June_2024_survivors", "July_2024_survivors")), ###add new months here**********
+mean_survival_proportion %>% ggplot(aes(x=factor(Month_survivor, level=c("April_2023_survivors", "May_2023_survivors", "June_2023_survivors", "July_2023_survivors", "August_2023_survivors", "September_2023_survivors", "October_2023_survivors", 
+                                                                         "May_2024_survivors", "June_2024_survivors", "July_2024_survivors")), ###add new months here**********
              y=meansurv, colour = Bag_Col, group=Bag_Col))+
   scale_x_discrete(labels=c('April 23', 'May 23', 'June 23', 'July 23', 'August 23', 'September 23', 'October 23', 'May 24', 'June 24', 'July 24'))+####################Add new months here ***********************
-  scale_color_manual(values=c('blue', 'green', 'red'), name = "Ploidy", labels = c("Diploid", "Induced Triploid", "Mated Triploid"))+
+  scale_color_manual(values=c('blue', 'green', 'red'), name = "Ploidy", labels = c("Induced Triploid", "Diploid", "Mated Triploid"))+
   geom_errorbar(aes(ymin=meansurv-semsurv, ymax=meansurv+semsurv))+
   geom_line()+facet_grid(~Site)+
-  xlab("Month")+ylab("Mean number of survivors per bag (± SEM)")+
+  xlab("Month")+ylab("Proportional Survival")+
   theme_bw()+ggtitle("Number of survivors since experiment start")+
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
-```
+
+
+##Create dummy data to create a gap between 23 and 24 data
+
+# Introduce a dummy level for the gap
+head(mean_survival_proportion)
+mean_survival_proportion <- mean_survival_proportion %>%
+  mutate(Month_survivor = factor(Month_survivor, 
+                                  levels = c(
+                                    "April_2023_survivors", "May_2023_survivors", "June_2023_survivors", 
+                                    "July_2023_survivors", "August_2023_survivors", "September_2023_survivors", 
+                                    "October_2023_survivors", "Gap",  # Dummy level for the gap
+                                    "May_2024_survivors", "June_2024_survivors", "July_2024_survivors"
+                                  )),
+         meansurv = ifelse(Month_survivor == "Gap", NA, meansurv))
+
+#check the data
+print(levels(mean_survival_proportion$Month_survivor))
+print(unique(mean_survival_proportion$Month_survivor))
+print(summary(mean_survival_proportion$Month_survivor))
+print(subset(mean_survival_proportion, Month_survivor == "July_2024_survivors"))
+
+ggplot(mean_survival_proportion, aes(x = factor(Month_survivor, 
+                                                levels = c("April_2023_survivors", "May_2023_survivors", "June_2023_survivors", 
+                                                           "July_2023_survivors", "August_2023_survivors", "September_2023_survivors", 
+                                                           "October_2023_survivors", "Gap",  # Dummy level for the gap
+                                                           "May_2024_survivors", "June_2024_survivors", "July_2024_survivors")),
+                                      y = meansurv, colour = Bag_Col, group = Bag_Col)) +
+  scale_x_discrete(labels = c('April 23', 'May 23', 'June 23', 'July 23', 'August 23', 
+                               'September 23', 'October 23', '',  # Label for the gap
+                               'May 24', 'June 24', 'July 24')) +
+  scale_color_manual(values = c('blue', 'green', 'red'), 
+                     name = "Ploidy", 
+                     labels = c("Induced Triploid", "Diploid", "Mated Triploid")) +
+  geom_errorbar(aes(ymin = meansurv - semsurv, ymax = meansurv + semsurv)) +
+  geom_line() +
+  facet_grid(~Site) +
+  xlab("Month") +
+  ylab("Proportional Survival") +
+  theme_bw() +
+  ggtitle("Number of survivors since experiment start") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+
+
+
+
+
 
 Need to turn the data into individual survival data. Each oyster should be listed with either alive or dead at each sampling point. Each oyster will need an ID number. 8 Cages per ploidy per site were monitored for mortality so a total of 400 oysters per ploidy per site at the start. Total of 4800 oysters. 
 
