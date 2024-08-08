@@ -12,13 +12,13 @@
     "properties": {
         "expression": "man_Do_Temp",
         "caption": "man_Do_Temp",
-        "totalObservations": "33863",
-        "displayedObservations": "33863",
+        "totalObservations": "36470",
+        "displayedObservations": "36470",
         "variables": "8",
-        "cacheKey": "2249FA84",
+        "cacheKey": "F3795181",
         "object": "man_Do_Temp",
         "environment": "",
-        "contentUrl": "grid_resource/gridviewer.html?env=&obj=man_Do_Temp&cache_key=2249FA84&max_display_columns=50",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=man_Do_Temp&cache_key=F3795181&max_display_columns=50",
         "preview": "0",
         "source_window_id": "",
         "Source": "Source"

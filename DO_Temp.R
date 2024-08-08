@@ -1,5 +1,8 @@
 #Packages
 library(tidyverse)
+library(dplyr)
+library(lubridate)
+library(ggplot2)
 
 #Read in the datat
 man_Do_Temp  <- read.csv("man_Do_Temp.csv")
@@ -31,7 +34,7 @@ tail(allDoTemp)
 
 # Filter out rows where Date.Time..GMT.07.00 is less than or equal to "2024-04-30 12:00:00"
 filtered_data <- allDoTemp %>%
-  filter(Date.Time..GMT.07.00 >= ymd_hms("2024-04-30 12:00:00", tz = "Etc/GMT+7"))
+  filter(Date.Time..GMT.07.00 >= ymd_hms("2023-05-01 12:00:00", tz = "Etc/GMT+7"))
 
 allDoTemp %>% 
   filter(date >= "2024-04-30 12:00:00")
@@ -58,7 +61,25 @@ daily_tempavg <- filtered_data %>%
 
 ggplot(data= daily_tempavg, aes(x = Date, y = Average_Temp, color = Site)) +
   geom_line(na.rm = TRUE) +
-  labs(title = "Temperature Over Time", x = " ", y = "Temperature, Celcius", color = "Site")
+  labs(title = "Seawater Temperature Across Time and Sites", x = " ", y = "Temperature (C)", color = "Site")
+
+##weekly temps
+weekly_tempavg <- filtered_data %>% 
+  group_by(Site, Date = as.Date(floor_date(Date.Time..GMT.07.00, "week"))) %>% #group by date
+  summarize(Average_Temp = mean(Temp_C, na.rm = TRUE)) #get averages
+
+ggplot(data= weekly_tempavg, aes(x = Date, y = Average_Temp, color = Site)) +
+  geom_line(size = 0.75, na.rm = TRUE) +
+  labs(title = "Seawater Temperature Across Time and Sites", x = " ", y = "Temperature (C)", color = "Site")+
+  theme(
+    axis.text.x = element_text(size = 12),
+    axis.text.y = element_text(size = 12),
+    axis.title.x = element_text(size = 14),
+    axis.title.y = element_text(size = 14),
+    plot.title = element_text(size = 18, face = "bold"),
+    strip.text = element_text(size = 12),
+    legend.text = element_text(size = 12),
+    legend.title = element_text(size = 14))
 
 #DO
 daily_DOavg <- filtered_data %>% 
@@ -67,9 +88,35 @@ daily_DOavg <- filtered_data %>%
 
 ggplot(data= daily_DOavg, aes(x = Date, y = Average_DO, color = Site)) +
   geom_line(na.rm = TRUE) +
-  labs(title = "Dissolved O2 Over Time", x = " ", y = "DO, mg/L", color = "Site")
+  labs(title = "Seawater Oxygen Concentration Across Time and Sites" , x = " ", y = "Dissolved Oxygen (mg/L)", color = "Site")+
+  theme(
+    axis.text.x = element_text(size = 12),
+    axis.text.y = element_text(size = 12),
+    axis.title.x = element_text(size = 14),
+    axis.title.y = element_text(size = 14),
+    plot.title = element_text(size = 18, face = "bold"),
+    strip.text = element_text(size = 12),
+    legend.text = element_text(size = 12),
+    legend.title = element_text(size = 14))
 
 
+##weekly DO
+weekly_DOavg <- filtered_data %>% 
+  group_by(Site, Date = as.Date(floor_date(Date.Time..GMT.07.00, "week"))) %>% #group by date
+  summarize(Average_DO = mean(DO_mgL, na.rm = TRUE)) #get averages
+
+ggplot(data= weekly_DOavg, aes(x = Date, y = Average_DO, color = Site)) +
+  geom_line(size = 0.75, na.rm = TRUE) +
+  labs(title = "Seawater Oxygen Concentrations Across Time and Sites", x = " ", y = "Dissolved Oxygen (mg/L)", color = "Site")+
+  theme(
+    axis.text.x = element_text(size = 12),
+    axis.text.y = element_text(size = 12),
+    axis.title.x = element_text(size = 14),
+    axis.title.y = element_text(size = 14),
+    plot.title = element_text(size = 18, face = "bold"),
+    strip.text = element_text(size = 12),
+    legend.text = element_text(size = 12),
+    legend.title = element_text(size = 14))
 
   
 
